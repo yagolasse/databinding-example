@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">data-binding-example</string>
+    <string name="click_me">Click me!</string>
+    <string name="worked">Worked</string>
+</resources>
